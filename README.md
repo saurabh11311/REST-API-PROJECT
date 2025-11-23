@@ -71,3 +71,26 @@ This is a POST request: -
 This is a code of the Project: -
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64b6484c-4d06-4952-ba10-a71fd18bb5b1" />
 
+
+
+
+
+
+Connection Node.js to MangoDB:- 
+
+Code Images:-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb6dc04f-e8a6-4f10-89e7-50cb8ca2e0fa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9507f0d9-e819-44a7-88b4-37911919d7ba" />
+
+
+
+This is a terminal Images for Demo:-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39b4e288-cfae-4612-b325-38632d55c49d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a90347a-9ac9-4343-a4ac-d974d40cbc71" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9b925b4d-1c8b-4be6-8cf5-3e96c2a7ecc0" />
+
+
+
+
+
+
